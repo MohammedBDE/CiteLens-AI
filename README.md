@@ -60,6 +60,8 @@ cp .env.example .env    # then edit .env and paste your key
 streamlit run app.py
 ```
 
+<img src="docs/screenshot.png" alt="CiteLens AI web interface" width="850">
+
 ### Command line
 
 ```bash
