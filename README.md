@@ -1,5 +1,11 @@
 # CiteLens AI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Claude API](https://img.shields.io/badge/AI-Claude%20API-D97757?logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![sentence-transformers](https://img.shields.io/badge/embeddings-sentence--transformers-FF6F00)](https://www.sbert.net/)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/MohammedBDE/CiteLens-AI)
+
 A retrieval-augmented question answering system for PDF documents. Ask questions in natural language and get answers backed by verbatim quotes and accurate page numbers.
 
 ## Why this exists
