@@ -1,0 +1,22 @@
+# Python bytecode - generated automatically
+__pycache__/
+*.pyc
+
+# Secrets - never commit
+.env
+
+# Data: inputs are private, the index is rebuildable
+data/pdfs/*
+data/index/*
+!data/pdfs/.gitkeep
+!data/index/.gitkeep
+
+# Virtual environments
+venv/
+.venv/
+
+# Logs
+*.log
+
+# pytest
+.pytest_cache/
